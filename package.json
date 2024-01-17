@@ -16,17 +16,10 @@
   ],
   "author": {
     "name": "jQuery Foundation and other contributors",
-    "url": "https://github.com/jquery/jquery-ui/blob/1.12.1/AUTHORS.txt"
+    "url": "https://github.com/konodiaoda/jquery-ui-bundle/blob/master/AUTHORS.txt"
   },
-  "maintainers": [
-    {
-      "name": "Ivan Malopinsky",
-      "email": "ivan@imsky.co",
-      "url": "http://imsky.co"
-    }
-  ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/imsky/jquery-ui-bundle/issues"
+    "url": "https://github.com/konodiaoda/jquery-ui-bundle/issues"
   }
 }
